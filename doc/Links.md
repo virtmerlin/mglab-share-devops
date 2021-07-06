@@ -1,6 +1,6 @@
 ## Doc Links
 
-#### [Return to Main Readme](https://github.com/virtmerlin/mglab-share-eks#links)
+#### [Return to Main Readme](https://github.com/virtmerlin/mglab-share-devops#links)
 
 #### (1) Introduction to Devops
 

@@ -1,6 +1,6 @@
 ## Demo Repo Links
 
-#### [Return to Main Readme](https://github.com/virtmerlin/mglab-share-eks#links)
+#### [Return to Main Readme](https://github.com/virtmerlin/mglab-share-devops#links)
 
 #### MicroService Repos
 - [CloudFormation for all 3 TV Microservices](https://github.com/virtmerlin/aws-class-devops-pipeline-cfn)
