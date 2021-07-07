@@ -52,6 +52,10 @@
   - https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/
   - https://cross-account-cicd-pipeline.workshop.aws/
   - https://aws.amazon.com/blogs/devops/using-aws-codepipeline-to-perform-multi-region-deployments/
+- CodePipeline Integrations
+  - https://docs.aws.amazon.com/codepipeline/latest/userguide/actions-create-custom-action.html
+  - https://docs.aws.amazon.com/codepipeline/latest/userguide/reference-integrations.html
+  - https://docs.aws.amazon.com/codepipeline/latest/userguide/integrations.html
 
 #### (5/6) MicroServices & Containers:
 
