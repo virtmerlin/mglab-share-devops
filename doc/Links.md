@@ -43,13 +43,15 @@
 - CodeCommit
   https://aws.amazon.com/codecommit/
 - CodeBuild & Code Deploy
-  https://aws.amazon.com/codebuild/
-  https://aws.amazon.com/codedeploy/
-  https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/
-  https://www.jenkins.io/doc/pipeline/steps/codedeploy
-  https://plugins.jenkins.io/codedeploy/
-  https://plugins.jenkins.io/ec2-fleet/
-  https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/
+  - https://aws.amazon.com/codebuild/
+  - https://aws.amazon.com/codedeploy/
+  - https://aws.amazon.com/blogs/devops/setting-up-a-ci-cd-pipeline-by-integrating-jenkins-with-aws-codebuild-and-aws-codedeploy/
+  - https://www.jenkins.io/doc/pipeline/steps/codedeploy
+  - https://plugins.jenkins.io/codedeploy/
+  - https://plugins.jenkins.io/ec2-fleet/
+  - https://aws.amazon.com/blogs/compute/cost-optimize-your-jenkins-ci-cd-pipelines-using-ec2-spot-instances/
+  - https://cross-account-cicd-pipeline.workshop.aws/
+  - https://aws.amazon.com/blogs/devops/using-aws-codepipeline-to-perform-multi-region-deployments/
 
 #### (5/6) MicroServices & Containers:
 
