@@ -10,6 +10,8 @@
 - [TV MicroService: WebApp Repo](https://github.com/virtmerlin/microservices-webapp)
 - [TV MicroService: WebApp 'FLUXCD' Config Repo](https://github.com/virtmerlin/microservices-webapp-config)
 
+- [Lab 6 CFN Export](https://github.com/virtmerlin/mglab-share-devops-lab6)
+
 #### AWS Config Custom Rule Repo
 - https://github.com/virtmerlin/aws-sample-lab-config
 
