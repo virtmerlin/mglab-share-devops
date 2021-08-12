@@ -135,7 +135,7 @@
 - AWS CodePipeline Best Practices:
   https://docs.aws.amazon.com/codepipeline/latest/userguide/best-practices.html
   https://docs.aws.amazon.com/codepipeline/latest/userguide/security-best-practices.html
-- AWS Systems Manager how Security Patches are seleted:
+- AWS Systems Manager how Security Patches are selected:
   https://docs.aws.amazon.com/systems-manager/latest/userguide/patch-manager-how-it-works-selection.html
 - AWS Systems Manager Parameter Store vs. AWS Secrets Manager:
   https://www.1strategy.com/blog/2019/02/28/aws-parameter-store-vs-aws-secrets-manager/
@@ -144,6 +144,11 @@
   https://snyk.awsworkshop.io/
   https://security-hub-workshop.awssecworkshops.com/
   https://devops.awssecworkshops.com/
+- Example IAM Policies for Security 'of the Pipeline':
+  [CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
+  [CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
+  [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/security_iam_id-based-policy-examples.html)
+  [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/security_iam_id-based-policy-examples.html)
 
 #### (10) Config Management:
 
