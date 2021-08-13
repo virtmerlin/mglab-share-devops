@@ -144,11 +144,13 @@
   https://snyk.awsworkshop.io/
   https://security-hub-workshop.awssecworkshops.com/
   https://devops.awssecworkshops.com/
+- Automate Devops team OnBoarding:
+  - https://aws.amazon.com/blogs/security/how-to-centralize-and-automate-iam-policy-creation-in-sandbox-development-and-test-environments/
 - Example IAM Policies for Security 'of the Pipeline':
-   - [CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
-   - [CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
-   - [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/security_iam_id-based-policy-examples.html)
-  -  [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/security_iam_id-based-policy-examples.html)
+  - [CodeCommit](https://docs.aws.amazon.com/codecommit/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
+  - [CodeBuild](https://docs.aws.amazon.com/codebuild/latest/userguide/auth-and-access-control-iam-identity-based-access-control.html)
+  - [CodeDeploy](https://docs.aws.amazon.com/codedeploy/latest/userguide/security_iam_id-based-policy-examples.html)
+  - [CodePipeline](https://docs.aws.amazon.com/codepipeline/latest/userguide/security_iam_id-based-policy-examples.html)
 
 #### (10) Config Management:
 
